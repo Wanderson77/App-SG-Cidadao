@@ -16,6 +16,7 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 ## Mobile Apps
 
 + Facebook Login
++ Autenticação com JWT
 + ASO
 + Mobile Marketing
 
