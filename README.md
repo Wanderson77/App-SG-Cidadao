@@ -32,6 +32,8 @@ De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
++ Axios (Cliente HTTP usado para enviar requests à API)
++ PropTypes (Lib para checagem de tipos das props de comps React)
 
 ## JS Features
 
@@ -85,5 +87,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 [wiki]: https://github.com/seunome/seuprojeto/wiki
 
 ---
+:+1: :sparkles:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
