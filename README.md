@@ -2,12 +2,6 @@
 
 > Este APP tem a função de aproximar e facilitar a previsão do tempo.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
 ![App Demo](/src/assets/app-sg-cidadao.png "App Demo")
 
 [![Rocket.Chat on Apple App Store](https://user-images.githubusercontent.com/551004/29770691-a2082ff4-8bc6-11e7-89a6-964cd405ea8e.png)](https://itunes.apple.com/us/app/rocket-chat/id1148741252?mt=8)
@@ -87,6 +81,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 [wiki]: https://github.com/seunome/seuprojeto/wiki
 
 ---
-:+1: :sparkles:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
