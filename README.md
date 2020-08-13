@@ -37,33 +37,28 @@
 ## Firebase Features
 
 + Authentication
-+ AdMob
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
 + AppIndex
++ AdMob
 
-## Histórico de lançamentos
+## Dev Tools Experience
 
-* 0.2.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1
-    * Trabalho em andamento
++ VSCode
++ Figma
++ Storybook
++ Material UI
++ TypeScript
 
-## Contributing
+## Cloud Services
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ das suas alterações (`git commit -am 'Add some fooBar'`)
-4. Faça _Push_ para a sua branch (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
++ DataBase
++ Authentication
++ Storage
++ EndPoint
++ Etc...
 
 ## 🔥 Instalação e execução
 
