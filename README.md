@@ -9,7 +9,7 @@
 
 ## Mobile Apps
 
-+ Facebook Login
++ Login Social ( Facebook / Google )
 + Autenticação com JWT
 + ASO
 + Mobile Marketing
@@ -29,11 +29,6 @@
 + Axios (Cliente HTTP usado para enviar requests à API)
 + PropTypes (Lib para checagem de tipos das props de comps React)
 
-## JS Features
-
-+ TDD / Jest / Enzime
-+ Hooks
-
 ## Firebase Features
 
 + Authentication
@@ -44,10 +39,20 @@
 + AppIndex
 + AdMob
 
+## Libs Feat
+
++ TDD (Jest / Enzime)
++ Hooks
+
+## Monetização
+
++ In App Purchase
+
 ## Dev Tools Experience
 
 + VSCode
 + Figma
++ MS AppCenter
 + Storybook
 + Material UI
 + TypeScript
