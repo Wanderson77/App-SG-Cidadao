@@ -44,10 +44,6 @@
 + TDD (Jest / Enzime)
 + Hooks
 
-## Monetização
-
-+ In App Purchase
-
 ## Dev Tools Experience
 
 + VSCode
@@ -64,6 +60,10 @@
 + Storage
 + EndPoint
 + Etc...
+
+## Monetização
+
++ In App Purchase
 
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
