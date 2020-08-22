@@ -1,5 +1,7 @@
 # App Demo
 
+> Se você precisa acompanhar mais de perto o que acontece na cidade de São Gonçalo.
+>
 > Este APP tem a função de aproximar e facilitar a previsão do tempo.
 
 ![App Demo](/src/assets/app-base.png "App Demo")
@@ -13,6 +15,7 @@
 + Autenticação com JWT
 + ASO
 + Mobile Marketing
++ Geolocalização
 
 ## React Native Features
 
@@ -26,7 +29,6 @@
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
-+ Axios (Cliente HTTP usado para enviar requests à API)
 + PropTypes (Lib para checagem de tipos das props de comps React)
 
 ## Firebase Features
@@ -43,6 +45,7 @@
 
 + TDD (Jest / Enzime)
 + Hooks
++ Axios (Cliente HTTP usado para enviar requests à API)
 
 ## Dev Tools Experience
 
