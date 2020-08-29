@@ -13,8 +13,6 @@
 
 + Login Social ( Facebook / Google )
 + Autenticação com JWT
-+ ASO
-+ Mobile Marketing
 + Geolocalização
 
 ## React Native Features
