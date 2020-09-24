@@ -48,8 +48,9 @@
 ## Dev Tools Experience
 
 + VSCode
++ CI / CD (App Center / GitHub Actions)
++ Docker / Kubernetes
 + Figma
-+ MS AppCenter
 + Storybook
 + Material UI
 + TypeScript
