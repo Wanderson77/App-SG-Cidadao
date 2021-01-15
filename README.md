@@ -1,4 +1,4 @@
-# App Demo
+# App SG Cidadão :octocat:
 
 > Se você precisa acompanhar mais de perto o que acontece na cidade de São Gonçalo.
 >
@@ -66,7 +66,5 @@
 ## Monetização
 
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
